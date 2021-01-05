@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------------
+The total number of months used in the Stock Data Analysis was 86.
+The net total for Profits/Losses for the Stock Data is 867884.
+The average change for the Stock Data over the 86 month period was -2315.12.
+The greatest decrease in the Stock Data is ['Sep-2013', -2196167].
+The greatest increase in the Stock Data is ['Feb-2012', 1926159].
